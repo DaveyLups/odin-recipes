@@ -1,1 +1,3 @@
 # odin-recipes
+
+I am developing a project centered around Odin Recipes, which will leverage my proficiency in HTML, CSS, JavaScript, and Ruby to ensure a comprehensive and fully functional end product. The primary objective of this project is to create an interactive platform whereby I can compile a list of my preferred recipes and use it as a learning tool to enhance my culinary skills. The prospect of programming a comprehensive collection of one's preferred recipes is undoubtedly a remarkable one.
